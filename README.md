@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Satra</h1>
-<h3 align="center">A passionate software developer with a diverse experience in software development, data analysis, IT Auditing and business management. I am skilled in front-end and back-end technologies like below and always looking to learn and explore new technologies.</h3>
+<h3 align="center">A passionate software developer with a diverse experience in software development, data analysis, IT Auditing and business management. I am skilled in front-end and back-end technologies and always looking to learn and explore new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joh-fec&label=Profile%20views&color=00ff33&style=plastic" alt="joh-fec" /> </p>
 
