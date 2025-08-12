@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Satra</h1>
-<h3 align="center">A passionate software developer with a diverse experience in software development, data analysis, IT Auditing and business management. I am skilled in front-end and back-end technologies and always looking to learn and explore new technologies.</h3>
+<h3 align="center">A passionate software developer with a diverse experience in software development, data analysis, IT Auditing and business management. I am skilled primarily in back-end technologies, with a bit of front-end experience, and I am always looking to learn and explore new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joh-fec&label=Profile%20views&color=00ff33&style=plastic" alt="joh-fec" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Technology and Business**
 
-- ⚡ Fun fact **I can play a number of sports like Cricket, Tennis, Football, Table Tennis, Badminton, Volleyball, Chess, Swimming, Cycling, Basketball and Trekking.**
+- ⚡ Fun fact **I can play several sports like Cricket, Tennis, Football, Table Tennis, Badminton, Volleyball, Chess, Swimming, Cycling, Basketball and Trekking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
